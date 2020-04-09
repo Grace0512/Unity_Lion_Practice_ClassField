@@ -447,11 +447,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5d4f426629deb04d8bfb5502cb582c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HP: 0
+  HP: 50
   MP: 100
   Move_Speed: 10.5
   Attack: 50
-  Defense: 0
+  Defense: 20
   Arms: 
   Equip: "\u76AE\u8863"
   Key: 0
